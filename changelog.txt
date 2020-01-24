@@ -1,3 +1,5 @@
 2020-01-14 - v0
 2020-01-16 - v1
 + cambios en el llamado a strtolower en webhook para evitar errores en la vuelta a woocommerce
+2020-01-24 - v2
++ corrección del pasaje de urls de pago pendiente y fallido en el registro de operaciones
