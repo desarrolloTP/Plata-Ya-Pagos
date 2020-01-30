@@ -3,3 +3,6 @@
 + cambios en el llamado a strtolower en webhook para evitar errores en la vuelta a woocommerce
 2020-01-24 - v2
 + corrección del pasaje de urls de pago pendiente y fallido en el registro de operaciones
+2020-01-30 - V3
++ remoción de pase del número de teléfono a la operación
++ modificación en la forma de determinar el modo de ejecución
